@@ -1,12 +1,21 @@
-body{
+*,
+::after,
+::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
-    height: 95vh;
-    width: 95vh;
+.container{
     display: flex;
-    justify-content: center;
-    align-content: center;
     flex-direction: column;
-    color: rgb(0, 139, 44);
-    font-size: 20px;
-    text-align: center;
-} 
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+}
+h2,.score {
+    margin-left: -60px;
+}
+#snake{
+    margin-top: 20px;
+}
