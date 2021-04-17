@@ -12,7 +12,7 @@ A clone of the snake game, where it can cross all sides without dying, with each
 # Clone this repo
 $ git clone git@github.com:SMarkus27/Snake-Game.git
 
-# Open the project folder terminal/cmd
+# Open the project folder in the terminal/cmd
 $ cd Snake-Game
 
 # Run the index file in your browser:
