@@ -1,36 +1,23 @@
 <p align="center">
   <img align='center' src="./assets/SMarkus.png" height="300">
 </p>
-<h1 align='center'>🚀 Uma aplicação de previsão de clima 🚀 </h1>
-Uma aplicação feita com django/python, utilizando a API do site https://openweathermap.org/, onde podemos pesquisar por qualquer cidade do mundo e descobrir as condições climaticas da cidade naquele momento.
+<h1 align='center'>🚀 Um clone do classico jogo da cobrinha :snake:  🚀 </h1>
+Um clone do classico jogo da cobrinha
 <h2>Layout</h2>
-  <img align='center' src="./assets/weather.png" height="300">
+  <img align='center' src="./assets/snake.png" height="300">
 <h2>Como Executar o projeto 🚀</h2>
 
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:SMarkus27/Weather_App.git
+$ git clone git@github.com:SMarkus27/Snake-Game.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd Weather_App
+$ cd Snake-Game
 
-# Vá para a pasta weather_app
-$ cd weather_app
+# Execute o arquivo index no seu browser para ativar aplicação:
+$ index.html
 
-# Execute o comando para a criação de um ambiente virtual:
-$ python -m pip venv weather
-
-# Ative sua venv:
-$ source weathero/bin/activate
-
-# Instale as dependencias que estão no arquivo requeriments.txt na pasta ToDO.
-$ pip install -r requeriments.txt
-
-# Execute o comando para ativar a aplicação:
-$ python manage.py runserver
-
-# O servidor inciará na porta:8000 - acesse http://127.0.0.1:8000 
 
 ```
 
@@ -38,11 +25,7 @@ $ python manage.py runserver
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
-  <li>Django/Python</li>
-  <li>JSON</li>
-  <li>API</li>
-  <li>SQLite</li>
-  
+  <li>JavaScript</li>
 </ul>
  📝 Licença
 
@@ -55,7 +38,7 @@ Feito  por Marcus Vinicius 👋🏽 [Entre em contato!](https://www.linkedin.com
 
 <h1 align='center'> Snake-Game</h1>
 <h2> About the project</h2>
-<h3> Um clone do classico jogo da cobrinha :snake:</h3>
+<h3> </h3>
 
 <h3>:exclamation: Features</h3>
 <ul>
