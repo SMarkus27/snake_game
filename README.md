@@ -2,7 +2,7 @@
   <img align='center' src="./assets/SMarkus.png" height="300">
 </p>
 <h1 align='center'>🚀 Snake Game :snake:  🚀 </h1>
-Um clone do classico jogo da cobrinha
+Um clone do classico jogo da cobrinha, onde a cobrinha pode atravessar todos os lados sem dar game over, quando uma frutinha é comida, o seu score aumenta e claro, se moder alguma parte do seu corpo teremos o game over
 <h2>Layout</h2>
   <img align='center' src="./assets/snake.png" height="300">
 <h2>Como Executar o projeto 🚀</h2>
