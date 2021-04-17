@@ -1,7 +1,7 @@
 <p align="center">
   <img align='center' src="./assets/SMarkus.png" height="300">
 </p>
-<h1 align='center'>🚀 Um clone do classico jogo da cobrinha :snake:  🚀 </h1>
+<h1 align='center'>🚀 Snake Game :snake:  🚀 </h1>
 Um clone do classico jogo da cobrinha
 <h2>Layout</h2>
   <img align='center' src="./assets/snake.png" height="300">
